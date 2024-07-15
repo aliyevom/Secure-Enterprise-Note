@@ -1,4 +1,3 @@
-### README.md
 
 # Encryption Note for Enterprise
 
