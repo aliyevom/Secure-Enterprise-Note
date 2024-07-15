@@ -6,6 +6,8 @@ Encryption Note for Enterprise is a sophisticated note-keeping and task manageme
 
 The application is designed to cater to the needs of large organizations by providing a secure platform for managing notes and tasks that may contain highly sensitive information. The encryption mechanism ensures that all data is protected from unauthorized access, while the logging feature keeps a detailed record of all activities for audit purposes. The enterprise-level access control allows for the implementation of various access levels, ensuring that employees only have access to the information they are authorized to view.
 
+![E2E Diagram](https://raw.githubusercontent.com/aliyevom/Secure-Enterprise-Note/main/public/diagram/E2E.png)
+
 ## Features
 
 - **Note Encryption**: 
@@ -27,6 +29,9 @@ The application is designed to cater to the needs of large organizations by prov
   - Provides a comprehensive task management system that allows users to create, edit, and delete tasks.
   - Tasks can be linked to notes for better organization and tracking.
   - Task statuses can be updated to reflect progress, helping teams stay on top of their work.
+
+![E2E Diagram](https://raw.githubusercontent.com/aliyevom/Secure-Enterprise-Note/main/public/diagram/UI%3AUX.png)
+
 
 ## E2E
 
